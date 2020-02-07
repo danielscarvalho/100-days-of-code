@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
-The programs are published at Wolfram Cloud: www.wolframcloud.com
+The programs are published at Wolfram Cloud in notebook internface: www.wolframcloud.com
+
 You can run, download or copy it online.
 
 ### Day 1: https://www.wolframcloud.com/obj/dcarvalho/Published/Day1-100DaysOfCode.nb
@@ -11,6 +12,22 @@ You can run, download or copy it online.
 ### Day 6: https://www.wolframcloud.com/obj/dcarvalho/Published/Day6-100DaysOfCode.nb
 ### Day 7: https://www.wolframcloud.com/obj/dcarvalho/Published/Day7-100DaysOfCode.nb
 ### Day 8: https://www.wolframcloud.com/obj/dcarvalho/Published/Day8-100DaysOfCode.nb
+### Day 9: https://www.wolframcloud.com/obj/dcarvalho/Published/Day9-100DaysOfCode.nb
+### Day 10: https://www.wolframcloud.com/obj/dcarvalho/Published/Day10-100DaysOfCode.nb
+### Day 11: https://www.wolframcloud.com/obj/dcarvalho/Published/Day11-100DaysOfCode.nb
+### Day 12: https://www.wolframcloud.com/obj/dcarvalho/Published/Day12-100DaysOfCode.nb
+### Day 13: https://www.wolframcloud.com/obj/dcarvalho/Published/Day13-100DaysOfCode.nb
+### Day 14: https://www.wolframcloud.com/obj/dcarvalho/Published/Day14-100DaysOfCode.nb
+### Day 15: https://www.wolframcloud.com/obj/dcarvalho/Published/Day15-100DaysOfCode.nb
+### Day 16: https://www.wolframcloud.com/obj/dcarvalho/Published/Day16-100DaysOfCode.nb
+### Day 17: https://www.wolframcloud.com/obj/dcarvalho/Published/Day17-100DaysOfCode.nb
+### Day 18: https://www.wolframcloud.com/obj/dcarvalho/Published/Day18-100DaysOfCode.nb
+### Day 19: https://www.wolframcloud.com/obj/dcarvalho/Published/Day19-100DaysOfCode.nb
+### Day 20: https://www.wolframcloud.com/obj/dcarvalho/Published/Day20-100DaysOfCode.nb
+### Day 21: https://www.wolframcloud.com/obj/dcarvalho/Published/Day21-100DaysOfCode.nb
+### Day 22: https://www.wolframcloud.com/obj/dcarvalho/Published/Day22-100DaysOfCode.nb
+### Day 23: https://www.wolframcloud.com/obj/dcarvalho/Published/Day23-100DaysOfCode.nb
+
 
 
 <!--
