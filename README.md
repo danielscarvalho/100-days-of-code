@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
+Check out my progress on Twitter: https://twitter.com/danielscarvalho/media
+
+I will publish every day a new program for 100 days, I am using [Wolfram Language](https://www.wolfram.com/language/), you can see the code and the graphic output.
+
 ## Contents
 
 * [Rules](rules.md)
