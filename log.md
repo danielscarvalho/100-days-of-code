@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+The programs are published at Wolfram Cloud: www.wolframcloud.com
+You can run, download or copy it online.
+
+### Day 1: https://www.wolframcloud.com/obj/dcarvalho/Published/Day1-100DaysOfCode.nb
+### Day 2: https://www.wolframcloud.com/obj/dcarvalho/Published/Day2-100DaysOfCode.nb
+### Day 3: https://www.wolframcloud.com/obj/dcarvalho/Published/Day3-100DaysOfCode.nb
+### Day 4: https://www.wolframcloud.com/obj/dcarvalho/Published/Day4-100DaysOfCode.nb
+### Day 5: https://www.wolframcloud.com/obj/dcarvalho/Published/Day5-100DaysOfCode.nb
+### Day 6: https://www.wolframcloud.com/obj/dcarvalho/Published/Day6-100DaysOfCode.nb
+### Day 7: https://www.wolframcloud.com/obj/dcarvalho/Published/Day7-100DaysOfCode.nb
+### Day 8: https://www.wolframcloud.com/obj/dcarvalho/Published/Day8-100DaysOfCode.nb
+
+
+<!--
+
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -28,3 +42,5 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+-->
