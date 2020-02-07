@@ -27,6 +27,21 @@ You can run, download or copy it online.
 ### Day 21: https://www.wolframcloud.com/obj/dcarvalho/Published/Day21-100DaysOfCode.nb
 ### Day 22: https://www.wolframcloud.com/obj/dcarvalho/Published/Day22-100DaysOfCode.nb
 ### Day 23: https://www.wolframcloud.com/obj/dcarvalho/Published/Day23-100DaysOfCode.nb
+### Day 24: https://www.wolframcloud.com/obj/dcarvalho/Published/Day24-100DaysOfCode.nb
+### Day 25: https://www.wolframcloud.com/obj/dcarvalho/Published/Day25-100DaysOfCode.nb
+### Day 26: https://www.wolframcloud.com/obj/dcarvalho/Published/Day26-100DaysOfCode.nb
+### Day 27: https://www.wolframcloud.com/obj/dcarvalho/Published/Day27-100DaysOfCode.nb
+### Day 28: https://www.wolframcloud.com/obj/dcarvalho/Published/Day28-100DaysOfCode.nb
+### Day 29: https://www.wolframcloud.com/obj/dcarvalho/Published/Day28-100DaysOfCode.nb
+### Day 30: https://www.wolframcloud.com/obj/dcarvalho/Published/Day30-100DaysOfCode.nb
+### Day 31: https://www.wolframcloud.com/obj/dcarvalho/Published/Day31-100DaysOfCode.nb
+### Day 32: https://www.wolframcloud.com/obj/dcarvalho/Published/Day32-100DaysOfCode.nb
+### Day 33: https://www.wolframcloud.com/obj/dcarvalho/Published/Day33-100DaysOfCode.nb
+### Day 34: https://www.wolframcloud.com/obj/dcarvalho/Published/Day34-100DaysOfCode.nb
+### Day 35: https://www.wolframcloud.com/obj/dcarvalho/Published/Day35-100DaysOfCode.nb
+### Day 36: https://www.wolframcloud.com/obj/dcarvalho/Published/Day36-100DaysOfCode.nb
+
+
 
 
 
