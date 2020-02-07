@@ -2,9 +2,9 @@
 
 The programs are published at Wolfram Cloud in notebook internface: www.wolframcloud.com
 
-You can run, download or copy notebooks with source and visualization online.
-
 You can see the messages on Twitter at: https://twitter.com/danielscarvalho/media
+
+You can run, download or copy notebooks with source and visualization online, links bellow.
 
 ### Day 1: 
 https://www.wolframcloud.com/obj/dcarvalho/Published/Day1-100DaysOfCode.nb
