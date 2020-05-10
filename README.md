@@ -6,7 +6,7 @@ I will publish every day a new program for 100 days, I am using [Wolfram Languag
 
 Post at Wolfram Community: https://community.wolfram.com/groups/-/m/t/1896699
 
-<em style="font-size:40px">🥇</em> Challege completed!! 
+<em style="font-size:xx-large;">🥇</em> Challege completed!! 
 
 ## Contents
 
