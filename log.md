@@ -124,7 +124,66 @@ https://www.wolframcloud.com/obj/dcarvalho/Published/Day38-100DaysOfCode.nb
 ### Day 39: 
 https://www.wolframcloud.com/obj/dcarvalho/Published/Day39-100DaysOfCode.nb
 
-coming soon...
+### Day 40: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day40-100DaysOfCode.nb
+
+### Day 41: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day41-100DaysOfCode.nb
+
+### Day 42: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day42-100DaysOfCode.nb
+
+### Day 43: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day43-100DaysOfCode.nb
+
+### Day 44: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day44-100DaysOfCode.nb
+
+### Day 45: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day45-100DaysOfCode.nb
+
+### Day 46: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day46-100DaysOfCode.nb
+
+### Day 47: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day47-100DaysOfCode.nb
+
+### Day 48: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day48-100DaysOfCode.nb
+
+### Day 49: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day49-100DaysOfCode.nb
+
+### Day 50: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day50-100DaysOfCode.nb
+
+### Day 51: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day51-100DaysOfCode.nb
+
+### Day 52: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day52-100DaysOfCode.nb
+
+### Day 53: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day53-100DaysOfCode.nb
+
+### Day 54: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day54-100DaysOfCode.nb
+
+### Day 55: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day55-100DaysOfCode.nb
+
+### Day 56: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day56-100DaysOfCode.nb
+
+### Day 57: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day57-100DaysOfCode.nb
+
+### Day 58: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day58-100DaysOfCode.nb
+
+### Day 59: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day59-100DaysOfCode.nb
+
 
 
 
