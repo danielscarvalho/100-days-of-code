@@ -115,6 +115,15 @@ https://www.wolframcloud.com/obj/dcarvalho/Published/Day35-100DaysOfCode.nb
 ### Day 36: 
 https://www.wolframcloud.com/obj/dcarvalho/Published/Day36-100DaysOfCode.nb
 
+### Day 37: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day37-100DaysOfCode.nb
+
+### Day 38: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day38-100DaysOfCode.nb
+
+### Day 39: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day39-100DaysOfCode.nb
+
 coming soon...
 
 
