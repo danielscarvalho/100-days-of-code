@@ -184,8 +184,128 @@ https://www.wolframcloud.com/obj/dcarvalho/Published/Day58-100DaysOfCode.nb
 ### Day 59: 
 https://www.wolframcloud.com/obj/dcarvalho/Published/Day59-100DaysOfCode.nb
 
+### Day 60: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day60-100DaysOfCode
 
+### Day 61: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day61-100DaysOfCode
 
+### Day 62: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day62-100DaysOfCode
+
+### Day 63: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day63-100DaysOfCode
+
+### Day 64: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day64-100DaysOfCode
+
+### Day 65: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day65-100DaysOfCode
+
+### Day 66: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day66-100DaysOfCode
+
+### Day 67: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day67-100DaysOfCode
+
+### Day 68: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day68-100DaysOfCode
+
+### Day 69: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day69-100DaysOfCode
+
+### Day 70: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day70-100DaysOfCode
+
+### Day 71: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day71-100DaysOfCode
+
+### Day 72: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day72-100DaysOfCode
+
+### Day 73: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day73-100DaysOfCode
+
+### Day 74: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day74-100DaysOfCode
+
+### Day 75: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day75-100DaysOfCode
+
+### Day 76: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day76-100DaysOfCode
+
+### Day 77: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day77-100DaysOfCode
+
+### Day 78: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day78-100DaysOfCode
+
+### Day 79: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day79-100DaysOfCode
+
+### Day 80: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day80-100DaysOfCode
+
+### Day 81: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day81-100DaysOfCode
+
+### Day 82: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day82-100DaysOfCode
+
+### Day 83: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day83-100DaysOfCode
+
+### Day 84: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day84-100DaysOfCode
+
+### Day 85: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day85-100DaysOfCode
+
+### Day 86: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day86-100DaysOfCode
+
+### Day 87: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day87-100DaysOfCode
+
+### Day 88: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day88-100DaysOfCode
+
+### Day 89: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day89-100DaysOfCode
+
+### Day 90: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day90-100DaysOfCode
+
+### Day 91: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day91-100DaysOfCode
+
+### Day 92: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day92-100DaysOfCode
+
+### Day 93: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day93-100DaysOfCode
+
+### Day 94: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day94-100DaysOfCode
+
+### Day 95: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day95-100DaysOfCode
+
+### Day 96: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day96-100DaysOfCode
+
+### Day 97: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day97-100DaysOfCode
+
+### Day 98: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day98-100DaysOfCode
+
+### Day 99: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day99-100DaysOfCode
+
+### Day 100: 
+https://www.wolframcloud.com/obj/dcarvalho/Published/Day100-100DaysOfCode
 
 <!--
 
