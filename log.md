@@ -307,7 +307,7 @@ https://www.wolframcloud.com/obj/dcarvalho/Published/Day99-100DaysOfCode.nb
 ### Day 100: 
 https://www.wolframcloud.com/obj/dcarvalho/Published/Day100-100DaysOfCode.nb
 
-# 🤩🥳🇧🇷🎊
+# 🤩 🥳 🇧🇷 🎊 👍
 
 <!--
 
